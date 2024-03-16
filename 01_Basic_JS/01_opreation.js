@@ -13,3 +13,11 @@ console.log(2%3);
  let str1="Akter"
  let str2= str+str1;
  console.log(str2);
+
+
+ console.log(1+"2");
+ console.log("1"+2);
+ console.log("1"+2+3);
+ console.log(1+2+"4");
+ console.log(+true);// return 1
+ 
